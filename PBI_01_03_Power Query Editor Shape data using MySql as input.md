@@ -5,9 +5,9 @@
 
 
 1. MySql is a oracle product
-1. Install **MySql** software by following [this link](https://github.com/nevermind78/POWERBI_SBS/blob/main/Notebooks/PBI_01_01_Introduction_Installation.md#mysql-installationoptional)
-1. Open **MySql Workbench** > if required create **new connection** or use **existing connection** > Click on **New SQL Tab for execution of queries**
-1. In **Navigator** Window in empty space > Right Click > click on **Create Schema** > Provide schema name as **rritecdb** > click on **apply** > click on **apply** > Click on **Finish**
+2. Install **MySql** software by following [this link](https://github.com/nevermind78/POWERBI_SBS/blob/main/Notebooks/PBI_01_01_Introduction_Installation.md)
+3. Open **MySql Workbench** > if required create **new connection** or use **existing connection** > Click on **New SQL Tab for execution of queries**
+4. In **Navigator** Window in empty space > Right Click > click on **Create Schema** > Provide schema name as **rritecdb** > click on **apply** > click on **apply** > Click on **Finish**
 
 **or**
 
