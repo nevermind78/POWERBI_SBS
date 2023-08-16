@@ -6,7 +6,7 @@
 # Power Query Editor
 - It is also known as `Power Query`
 # Download all materials and data
-1. Download materials [here](https://github.com/rritec/powerbi/archive/refs/heads/master.zip)
+1. Download materials [here](https://drive.google.com/file/d/1LqIfHZEL7KGgkae3bmxl2wg9uBeLTNsH/view?usp=sharing)
 1. Create one folder on desktop with the name of **PowerBI_work**
 1. Move above **powerbi-master.zip** file to **PowerBI_work** folder
 1. Right click on **powerbi-master.zip** file > Click on **Extract All**
