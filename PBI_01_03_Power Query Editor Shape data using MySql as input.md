@@ -132,11 +132,11 @@ INSERT INTO emp30 (empno, ename, job, mgr, hiredate, sal, comm, deptno, test) VA
 1. emp30
 
 
-1. Open **Power BI Desktop** > Click on **Get Data** > Click on **Databases** > select **MySql Database** > click on **connect**
+1. Open **Power BI Desktop** > Click on **Get Data** > Click on **Databases** > select **Sql server Database** > click on **connect**
 
 ![](https://github.com/nevermind78/POWERBI_SBS/blob/main/images/PBI_0089.png?raw=true)
  
-1. provider server as **localhost** > Database as **rritec** > Click on **ok**
+1. provider server as **l** > Database as **rr** > Click on **ok**
 
     ![](https://github.com/nevermind78/POWERBI_SBS/blob/main/images/PBI_0090.png?raw=true)
     
@@ -145,12 +145,5 @@ INSERT INTO emp30 (empno, ename, job, mgr, hiredate, sal, comm, deptno, test) VA
     ![](https://github.com/nevermind78/POWERBI_SBS/blob/main/images/PBI_0091.png?raw=true)
 
 
-## Do all exercise of Previous chapter [PBI_01_02_Power Query Editor Shape data using Excel as source](https://github.com/nevermind78/POWERBI_SBS/blob/main/Notebooks/PBI_01_02_Power%20Query%20Editor%20Shape%20data%20using%20Excel%20as%20source.md)
 
-## Questions
-1. What is the official tool, to query MySql database?
-    - MySQL Workbench
-2. 
-```python
 
-```
