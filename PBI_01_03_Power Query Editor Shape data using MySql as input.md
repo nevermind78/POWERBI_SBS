@@ -5,7 +5,7 @@
 
 
 1. MySql is a oracle product
-1. Install **MySql** software by following [this link](https://github.com/rritec/powerbi/blob/master/Notebooks/PBI_01_01_Introduction_Installation.md#mysql-installationoptional)
+1. Install **MySql** software by following [this link](https://github.com/nevermind78/POWERBI_SBS/blob/main/Notebooks/PBI_01_01_Introduction_Installation.md#mysql-installationoptional)
 1. Open **MySql Workbench** > if required create **new connection** or use **existing connection** > Click on **New SQL Tab for execution of queries**
 1. In **Navigator** Window in empty space > Right Click > click on **Create Schema** > Provide schema name as **rritecdb** > click on **apply** > click on **apply** > Click on **Finish**
 
@@ -168,18 +168,18 @@ INSERT INTO emp30 (empno,ename,job,mgr,hiredate,sal,comm,deptno,test) VALUES
 
 1. Open **Power BI Desktop** > Click on **Get Data** > Click on **Databases** > select **MySql Database** > click on **connect**
 
-![](https://github.com/rritec/powerbi/blob/master/images/PBI_0089.png?raw=true)
+![](https://github.com/nevermind78/POWERBI_SBS/blob/main/images/PBI_0089.png?raw=true)
  
 1. provider server as **localhost** > Database as **rritec** > Click on **ok**
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0090.png?raw=true)
+    ![](https://github.com/nevermind78/POWERBI_SBS/blob/main/images/PBI_0090.png?raw=true)
     
 1. Select all the tables as shown below > clcik on **LoadData** 
 
-    ![](https://github.com/rritec/powerbi/blob/master/images/PBI_0091.png?raw=true)
+    ![](https://github.com/nevermind78/POWERBI_SBS/blob/main/images/PBI_0091.png?raw=true)
 
 
-## Do all exercise of Previous chapter [PBI_01_02_Power Query Editor Shape data using Excel as source](https://github.com/rritec/powerbi/blob/master/Notebooks/PBI_01_02_Power%20Query%20Editor%20Shape%20data%20using%20Excel%20as%20source.md)
+## Do all exercise of Previous chapter [PBI_01_02_Power Query Editor Shape data using Excel as source](https://github.com/nevermind78/POWERBI_SBS/blob/main/Notebooks/PBI_01_02_Power%20Query%20Editor%20Shape%20data%20using%20Excel%20as%20source.md)
 
 ## Questions
 1. What is the official tool, to query MySql database?
